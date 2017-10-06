@@ -1,5 +1,5 @@
-h1 {
-  background-color: limegreen;
+html {
+  background-color: #c9b5ab;
 }
 
 li {
@@ -7,5 +7,11 @@ li {
 }
 
 #bigger {
+  font-size: 1.2rem;
+}
+
+blockquote p {
+  font-family: 'PT Serif', serif;
   font-size: 1.5rem;
+  font-style: italic;
 }
