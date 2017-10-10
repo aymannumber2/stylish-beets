@@ -1,9 +1,12 @@
 html {
   background-color: #c9b5ab;
+  line-height: 1.5;
 }
 
 li {
   color: #8f2440;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 #bigger {
@@ -11,14 +14,21 @@ li {
 }
 
 blockquote p {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   font-size: 1.5rem;
   font-style: italic;
 }
 
 h2 {
   color: #3f1622;
-  font-family: sans-serif;
+  font-family: "PT sans";
+  font-weight: bold;
+}
+
+h1 {
+  color: #3f1622;
+  font-family: "PT sans";
+  font-weight: bold;
 }
 
 li:nth-child(1n) {
@@ -38,10 +48,6 @@ a:hover {
   text-decoration: underline;
 }
 
-li {
-  text-decoration: none;
-}
-
 figcaption {
   text-align: center;
 }
@@ -52,4 +58,8 @@ dl {
 
 ul {
   list-style-type: circle;
+}
+
+nav ol li {
+  list-style-type: none;
 }
