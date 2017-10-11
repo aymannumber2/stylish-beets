@@ -9,7 +9,7 @@ li {
   font-weight: bold;
 }
 
-#bigger {
+.bigger {
   font-size: 1.2rem;
 }
 
@@ -62,4 +62,8 @@ ul {
 
 nav ol li {
   list-style-type: none;
+}
+
+img {
+  width: 100%;
 }
