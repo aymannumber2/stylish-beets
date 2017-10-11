@@ -27,8 +27,8 @@ h2 {
 
 h1 {
   color: #3f1622;
-  font-family: "PT sans";
-  font-weight: bold;
+  font-family: "PT sans 700";
+  font-weight: normal;
 }
 
 li:nth-child(1n) {
