@@ -47,6 +47,10 @@ a:hover {
   text-decoration: underline;
 }
 
+a {
+  font-size: 1rem;
+}
+
 figcaption {
   text-align: center;
 }
