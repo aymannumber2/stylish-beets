@@ -78,3 +78,7 @@ img {
 p {
   font-size: 1.05rem;
 }
+
+.no {
+  font-weight: normal;
+}
