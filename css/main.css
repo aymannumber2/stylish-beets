@@ -28,6 +28,7 @@ h2 {
 h1 {
   color: #3f1622;
   font-family: "PT sans";
+  font-size: 1.5rem;
 }
 
 li:nth-child(1n) {
@@ -50,11 +51,12 @@ a:hover {
 a {
   text-decoration: none;
   font-family: "PT sans";
-  font-weight: normal;
+  font-size: 1.2rem;
 }
 
 figcaption {
   text-align: center;
+  font-size: 1.05rem;
 }
 
 dl {
@@ -71,4 +73,8 @@ nav ol li {
 
 img {
   width: 100%;
+}
+
+p {
+  font-size: 1.05rem;
 }
