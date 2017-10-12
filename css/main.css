@@ -49,6 +49,8 @@ a:hover {
 
 a {
   text-decoration: none;
+  font-family: "PT sans";
+  font-weight: normal;
 }
 
 figcaption {
